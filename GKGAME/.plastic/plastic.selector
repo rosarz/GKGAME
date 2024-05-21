@@ -1,0 +1,4 @@
+repository "GK_GAME@Rosarz@cloud"
+  path "/"
+    br "/main"
+    co "/main"

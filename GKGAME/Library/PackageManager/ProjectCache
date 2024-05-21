@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638518169860964018
-    m_Hash: 2895822966
+      ticks: 638518934306661697
+    m_Hash: 3526210330
   m_LockFileStatus:
     m_FilePath: C:/Users/kanal/Documents/Unity/GKGAME/GKGAME/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638518170087625564
-    m_Hash: 2596896207
+      ticks: 638518934423732369
+    m_Hash: 276539483
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,12 +22,12 @@ m_LocalPackages:
 m_ProjectPath: C:/Users/kanal/Documents/Unity/GKGAME/GKGAME/Packages
 m_EditorVersion: 2021.3.26f1 (a16dc32e0ff2)
 m_ResolvedPackages:
-- packageId: com.unity.collab-proxy@2.0.4
+- packageId: com.unity.collab-proxy@2.1.0
   testable: 0
   isDirectDependency: 1
-  version: 2.0.4
+  version: 2.1.0
   source: 1
-  resolvedPath: C:\Users\kanal\Documents\Unity\GKGAME\GKGAME\Library\PackageCache\com.unity.collab-proxy@2.0.4
+  resolvedPath: C:\Users\kanal\Documents\Unity\GKGAME\GKGAME\Library\PackageCache\com.unity.collab-proxy@2.1.0
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -36,7 +36,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: Editor
-  type: asset
+  type: assets
   description: The package gives you the ability to use Unity Version Control in
     the Unity editor. To use Unity Version Control, a subscription is required. Learn
     more about how you can get started for free by visiting plasticscm.com.
@@ -153,13 +153,13 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 638176024310000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.0/manual/index.html
+  datePublishedTicks: 638301329890000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.1/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-    revision: dc15ef2ed609e8c19d0525a46c5bf7dd78df8432
+    revision: 179e96acc2f95fcb9dcc91b5fb2ee5f3e85d48aa
     path: 
   unityLifecycle:
     version: 2.0.4
@@ -3887,6 +3887,7 @@ m_ResolvedPackages:
     - 10.0.3
     - 10.1.0
     - 10.1.1
+    - 10.1.2
     compatible:
     - 7.0.10
     - 7.0.11
@@ -4345,6 +4346,7 @@ m_ResolvedPackages:
     - 10.0.2
     - 10.0.3
     - 10.0.4
+    - 10.0.5
     compatible:
     - 7.0.7
     verified: 7.0.7
@@ -4723,6 +4725,7 @@ m_ResolvedPackages:
     - 9.0.2
     - 9.0.3
     - 9.0.4
+    - 9.0.5
     compatible:
     - 6.0.6
     - 6.0.7
